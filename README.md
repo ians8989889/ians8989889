@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ians8989889
 - 👀 I’m interested in ...software & beauty
-- 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...WTF
 - 📫 How to reach me ...No way
 
